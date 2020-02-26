@@ -21,7 +21,7 @@ export default {
   li {
     border: 1.2px dotted;
     border-radius: 6em;
-    width: 50%;
+    width: 40%;
     margin: 1em 3em 1em 4em;
     list-style: none;
     background-color: hotpink;

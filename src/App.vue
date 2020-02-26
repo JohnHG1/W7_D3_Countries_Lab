@@ -53,5 +53,6 @@ export default {
 h1.title {
   font-size: 4em;
   padding: 1em 0em;
+
 }
 </style>

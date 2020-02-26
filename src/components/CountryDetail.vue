@@ -33,7 +33,7 @@ img {
   width: 25%;
   position: fixed;
   right: 0;
-  padding: 3em 2em 3em 1em;
+  padding: 1.6em 2em 1.6em 1em;
   background-color: gold;
   font-size: 1.5em;
   margin-right: 1em;
