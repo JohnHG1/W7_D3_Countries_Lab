@@ -3,6 +3,11 @@
   <h3>{{country.name}}</h3>
   <p><b>Population:</b> {{country.population}}</p>
   <p><b>Capital:</b> {{country.capital}}</p>
+  <img :src="country.flag" alt="">
+
+
+
+
 </div>
 
 </template>
@@ -16,9 +21,14 @@ export default {
 
 <style lang="css" scoped>
 
+img {
+  /* width: inherit; */
+  width: 10em;
+}
+
 .country-detail {
   text-align: right;
-  border: 1px solid black;
+  border: 1.2px dotted;
   border-radius: 2em;
   width: 25%;
   position: fixed;

@@ -19,7 +19,7 @@ export default {
 <style lang="css" scoped>
 
   li {
-    border: 1px solid black;
+    border: 1.2px dotted;
     border-radius: 6em;
     width: 50%;
     margin: 1em 3em 1em 4em;
